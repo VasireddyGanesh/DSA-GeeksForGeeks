@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.lang.Math.*;
 
+
+//Method -1 : O(n)--Time Complexity
 // import java.util.Scanner;
 
 // class Number{
@@ -29,6 +31,8 @@ import java.lang.Math.*;
 //     }
 // }
 
+
+//Method -2 : O(1)-Time Complexity
 class findNumberOfDigits {
     public static void main(String[] args) {
         int num;
